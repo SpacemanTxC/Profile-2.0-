@@ -1,2 +1,5 @@
 # Profile-2.0
-New Profile for Tate. Updated using current best practices and react.
+# Tate Capra Full Stack Web Developer Profile
+
+New developer profile giving background, projects, and other information regarding me as a developer.
+
